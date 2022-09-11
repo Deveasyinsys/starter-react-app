@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+import logo from './logoxxx.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <imgxxx src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Rubah <code>src/App.js</code> dan simpan untuk melihat perubahannya.
         </p>
