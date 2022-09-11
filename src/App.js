@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <imgxxx src={logo} className="App-logo" alt="logo" />
         <p>
           Rubah <code>src/App.js</code> dan simpan untuk melihat perubahannya.
         </p>
